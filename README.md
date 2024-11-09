@@ -1,17 +1,6 @@
 # NotebookLM_Evaluation
 An evaluation of NotebookLM features for enhanced learning experiences in a university setting.
-NotebookLM_Evaluation/
-│
-├── README.md                       # Overview of the project and evaluation criteria
-│
-├── Experiment1_Enhanced_Note_Taking.md
-├── Experiment2_Automated_Summarization.md
-├── Experiment3_Question_Answering.md
-├── Experiment4_Collaborative_Capabilities.md
-├── Experiment5_Resource_Suggestions.md
-│
-└── Results_Summary.md              # Summary of all results and final evaluation
-# NotebookLM Evaluation
+
 
 This repository contains an evaluation of NotebookLM features for enhanced learning experiences at a university. Each experiment tests a specific feature to assess its impact on note-taking, summarization, and collaborative learning.
 
